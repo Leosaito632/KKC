@@ -1,0 +1,52 @@
+h1{
+    color: rgb(158, 12, 12);
+    font-size: 40px;
+    margin: 30px;
+}
+h2{
+    background-color: rgba(0, 0, 0, 0.555);
+    color: red;
+    width: fit-content;
+    border-radius: 5px;
+}
+h3{
+    background-color: rgba(0, 0, 0, 0.541);
+    color: rgb(77, 218, 42);
+    width: fit-content;
+    border-radius: 5px;
+}
+h4{
+    line-height: 50px;
+}
+body{
+    line-height: 25px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/59beea1da8b2b0d4f4dea15f/1505785240837-1VPK66HRRJPDXG38TLFZ/ke17ZwdGBToddI8pDm48kIoIhX4TsLv-V1aLpmq39VJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy9W7PMQf-4um70QnoRyziFhdbzLQ31ZfZePpwgr9lm2_aQ1reZtZWCakmWZccWTW8/dandossantos_tnotw_cropped_21.jpg?format=500w);
+    width: fit-content;
+    border-radius: 5px;
+    margin: 20px;
+    background-size: 50%;
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    margin: 20px;
+    text-align: justify;
+    width: fit-content;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.541);
+}
+li{
+    color: royalblue;
+}
+.button{
+    margin: 20px;
+    line-height: 40px;
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 10px 20px;
+    text-align: left;
+    font-size: 15px;
+}
+footer{
+    padding: 20px
+}
